@@ -1,0 +1,33 @@
+HTTrack3.49-2 launched on Mon, 10 Jul 2023 13:13:06 at https://ux.emprise.tours/home-page +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/HTTrack/Websites/emprise -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://ux.emprise.tours/home-page +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:17:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/css/b83f5ef38c54f38e9309c992e724b1caa950e172/assets.images/search-24.png (from https://d33wubrfki0l68.cloudfront.net/css/b83f5ef38c54f38e9309c992e724b1caa950e172/styles/main.css)
+13:17:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/css/assets/images/artem-kniaz-bC7zaV3j7S4-unsplash.jpg (from https://d33wubrfki0l68.cloudfront.net/css/b83f5ef38c54f38e9309c992e724b1caa950e172/styles/main.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/bundles/qualy-webfont.eot (from https://d33wubrfki0l68.cloudfront.net/bundles/67608f4a19de0c4b5bdf8a3a05c0aaa11526369d.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/bundles/qualy-webfont.eot? (from https://d33wubrfki0l68.cloudfront.net/bundles/67608f4a19de0c4b5bdf8a3a05c0aaa11526369d.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/assets.images/search-24.png (from https://d33wubrfki0l68.cloudfront.net/bundles/67608f4a19de0c4b5bdf8a3a05c0aaa11526369d.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/assets/images/artem-kniaz-bC7zaV3j7S4-unsplash.jpg (from https://d33wubrfki0l68.cloudfront.net/bundles/67608f4a19de0c4b5bdf8a3a05c0aaa11526369d.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/vendors/openhand.cur (from https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/vendors/rs6.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/vendors/closedhand.cur (from https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/vendors/rs6.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/assets/gridtile.png (from https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/vendors/rs6.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/assets/gridtile_white.png (from https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/vendors/rs6.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/assets/gridtile_3x3.png (from https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/vendors/rs6.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/assets/gridtile_3x3_white.png (from https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/vendors/rs6.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/assets/coloredbg.png (from https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/vendors/rs6.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/assets/loader.gif (from https://d33wubrfki0l68.cloudfront.net/css/ced58c04a29e3fd1a68d9c2eaef08948c9a5d216/vendors/rs6.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/bundles/openhand.cur (from https://d33wubrfki0l68.cloudfront.net/bundles/337dcc32f7bae2d01c4f986502e17c5f54cd3dd8.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/bundles/closedhand.cur (from https://d33wubrfki0l68.cloudfront.net/bundles/337dcc32f7bae2d01c4f986502e17c5f54cd3dd8.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/assets/gridtile.png (from https://d33wubrfki0l68.cloudfront.net/bundles/337dcc32f7bae2d01c4f986502e17c5f54cd3dd8.css)
+13:18:16	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/assets/gridtile_white.png (from https://d33wubrfki0l68.cloudfront.net/bundles/337dcc32f7bae2d01c4f986502e17c5f54cd3dd8.css)
+13:18:17	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/assets/gridtile_3x3.png (from https://d33wubrfki0l68.cloudfront.net/bundles/337dcc32f7bae2d01c4f986502e17c5f54cd3dd8.css)
+13:18:17	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/assets/gridtile_3x3_white.png (from https://d33wubrfki0l68.cloudfront.net/bundles/337dcc32f7bae2d01c4f986502e17c5f54cd3dd8.css)
+13:18:17	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/assets/coloredbg.png (from https://d33wubrfki0l68.cloudfront.net/bundles/337dcc32f7bae2d01c4f986502e17c5f54cd3dd8.css)
+13:18:17	Error: 	"Not Found" (404) at link https://d33wubrfki0l68.cloudfront.net/assets/loader.gif (from https://d33wubrfki0l68.cloudfront.net/bundles/337dcc32f7bae2d01c4f986502e17c5f54cd3dd8.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 11 seconds : 190 links scanned, 166 files written (22442415 bytes overall) [16665905 bytes received at 53588 bytes/sec], 6937211 bytes transferred using HTTP compression in 48 files, ratio 15%, 2.8 requests per connection
+(22 errors, 0 warnings, 0 messages)
